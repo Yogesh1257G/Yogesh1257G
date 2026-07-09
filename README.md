@@ -32,5 +32,5 @@ Mission : Build legendary software.
 
 ## Snake
 ```html
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/Yogesh1257G/Yogesh1257G/output/github-contribution-grid-snake-dark.svg">
 ```
